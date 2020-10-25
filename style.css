@@ -1,0 +1,45 @@
+html{
+    background: #e3e3e3;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    color: #242424;
+    border-top: 10px solid #242424;
+    background: #ffffff;
+}
+
+h1{
+    font-size: 3em;
+    margin: 0;
+}
+
+p{
+    line-height: 1.4em;
+}
+
+#blog{
+    border-top: 1px dotted #cccccc;
+}
+
+.blog-post{
+    border-bottom: 1px dotted #cccccc;
+}
+
+#hello-features{
+    border-top: 1px solid #cccccc;
+}
+
+.form{
+    color: blueviolet;
+}
+
+.form-example{
+    color: forestgreen;
+}
+
+a[href="index.html"]{
+    color: red;
+}
