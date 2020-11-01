@@ -11,6 +11,22 @@ body{
     background: #ffffff;
 }
 
+.sticky{
+    background: green;
+    position: sticky;
+    top: 0;
+}
+
+section{
+    
+    display: flex; 
+}
+
+form{
+    display: flex;
+    margin: 20px;
+}
+
 h1{
     font-size: 3em;
     margin: 0;
@@ -43,3 +59,4 @@ p{
 a[href="index.html"]{
     color: red;
 }
+
