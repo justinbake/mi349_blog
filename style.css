@@ -61,7 +61,14 @@ a[href="index.html"]{
 }
 
 @media (max-width: 400px){
-    #c1{
+    #blog{
         background: lightblue;
     }
+    #form{
+        background: darkcyan;
+    }
+    #hello-features{
+        background: lightseagreen;
+    }
+    
 }
